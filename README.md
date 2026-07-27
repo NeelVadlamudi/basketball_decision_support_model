@@ -2,7 +2,7 @@
 
 This is a public, reproducible basketball analytics work sample built for roles that ask for decision-support models, validation, and clear communication to basketball stakeholders.
 
-The project uses synthetic possession-level and player-role data shaped like basketball operations work. It does not use Phoenix Suns internal data, scouting grades, tracking data, or proprietary team context. The point is to demonstrate the workflow: turn an ambiguous basketball question into a model, validate it, communicate uncertainty, and produce a decision-ready output.
+The project uses synthetic possession-level and player-role data shaped like basketball operations work. It does not use internal data, scouting grades, tracking data, or proprietary team context. The point is to demonstrate the workflow: turn an ambiguous basketball question into a model, validate it, communicate uncertainty, and produce a decision-ready output.
 
 ## Basketball Question
 
