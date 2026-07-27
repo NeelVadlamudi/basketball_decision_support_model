@@ -1,0 +1,13 @@
+player_id,archetype,spacing,creation,rim_pressure,defense,rebounding,ball_security,role_fit_score,usage_note
+P03,two-way wing,0.81,0.69,0.58,0.86,0.63,0.71,0.7322,context-dependent rotation profile
+P01,primary creator,0.72,0.95,0.66,0.57,0.45,0.67,0.6914,context-dependent rotation profile
+P05,connector guard,0.78,0.68,0.5,0.7,0.47,0.89,0.6776,context-dependent rotation profile
+P04,rim protector,0.42,0.45,0.75,0.93,0.91,0.65,0.663,context-dependent rotation profile
+P08,stretch big,0.84,0.51,0.58,0.62,0.78,0.68,0.6620000000000001,context-dependent rotation profile
+P09,transition slasher,0.58,0.66,0.91,0.61,0.56,0.57,0.6524000000000001,context-dependent rotation profile
+P11,rebounding forward,0.52,0.5,0.7,0.77,0.94,0.62,0.6517999999999999,context-dependent rotation profile
+P12,late-clock shot maker,0.76,0.88,0.52,0.55,0.39,0.59,0.6454000000000002,context-dependent rotation profile
+P02,movement shooter,0.94,0.62,0.42,0.6,0.38,0.73,0.641,context-dependent rotation profile
+P07,defensive specialist,0.56,0.42,0.48,0.95,0.67,0.7,0.63,context-dependent rotation profile
+P06,bench scorer,0.69,0.82,0.61,0.42,0.34,0.55,0.5948000000000001,development or matchup-specific profile
+P10,development wing,0.63,0.48,0.56,0.54,0.49,0.5,0.542,development or matchup-specific profile

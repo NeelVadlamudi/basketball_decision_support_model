@@ -1,0 +1,13 @@
+lineup_id,lineup_profile,possessions,actual_ppp,predicted_ppp,avg_defensive_risk,avg_shot_quality,avg_turnover_pressure,avg_rebound_matchup,predicted_ppp_low,predicted_ppp_high,net_rating_per_100,net_rating_low_per_100,net_rating_high_per_100,uncertainty_width,decision_tier,basketball_note
+L10,Player-development evaluation group,67,0.916,0.97,0.483,0.672,0.411,0.543,0.952,0.989,-2.943,-3.741,-2.147,3.693,avoid unless matchup-specific,protect with simpler actions
+L05,Bench spacing development group,78,0.943,0.964,0.479,0.686,0.429,0.475,0.943,0.983,-3.462,-4.446,-2.563,4.045,avoid unless matchup-specific,protect with simpler actions
+L11,Defensive glass control group,50,1.075,1.065,0.26,0.672,0.377,0.832,1.046,1.081,0.974,0.275,1.583,3.511,situational,protect with simpler actions
+L04,Switch-heavy defensive group,76,0.997,1.057,0.289,0.692,0.366,0.659,1.041,1.072,0.826,0.092,1.557,3.19,situational,protect with simpler actions
+L08,Low-turnover veteran group,91,1.093,1.054,0.375,0.72,0.305,0.587,1.038,1.072,0.791,-0.02,1.677,3.375,situational,strong shot-quality profile
+L03,Big frontcourt rebound unit,66,1.116,1.039,0.315,0.687,0.404,0.789,1.024,1.052,0.001,-0.634,0.592,2.864,situational,protect with simpler actions
+L09,Small-ball offensive group,94,1.029,1.038,0.512,0.784,0.375,0.441,1.024,1.052,-0.023,-0.751,0.7,2.84,situational,strong shot-quality profile
+L12,Late-clock creation group,68,0.994,1.027,0.422,0.772,0.391,0.536,1.013,1.043,-0.481,-1.124,0.194,3.033,situational,strong shot-quality profile
+L02,High creation guard unit,93,1.035,1.023,0.471,0.773,0.403,0.495,1.011,1.036,-0.783,-1.424,-0.137,2.532,situational,strong shot-quality profile
+L07,Rim pressure transition group,79,1.035,1.017,0.437,0.743,0.431,0.609,1.001,1.035,-0.986,-1.771,-0.158,3.444,situational,strong shot-quality profile
+L06,Balanced playoff-style unit,130,1.089,1.103,0.345,0.779,0.346,0.633,1.09,1.117,3.894,3.084,4.702,2.693,test more,strong shot-quality profile
+L01,Spacing with two-way wings,80,1.106,1.104,0.368,0.802,0.36,0.597,1.091,1.12,3.106,2.455,3.83,2.916,test more,strong shot-quality profile
