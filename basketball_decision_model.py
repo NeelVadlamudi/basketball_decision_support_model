@@ -1,5 +1,12 @@
 from __future__ import annotations
 
+"""Basketball analytics work sample for lineup and role-fit decision support.
+
+The script generates synthetic possession-level data, trains a possession-value
+model, validates it on a later game window, and writes stakeholder-facing
+outputs for lineup review, tactical context, role fit, and model limitations.
+"""
+
 import math
 import os
 import sqlite3
